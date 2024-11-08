@@ -4,8 +4,12 @@
       
       <v-col>
         <h1 class="display-2 font-weight-bold mb-3">
-          Bienvenido##
+          ¡Bienvenido!
         </h1>
+
+        <h3 class="display-1 font-weight-bold mb-3">
+          VG21009 - Carlos Oswaldo Vásquez Girón
+        </h3>
 
         <p class="subheading font-weight-regular">
           Front End del sistema de tareas,<br> para utilizar como ejemplo en las practicas de despliegue.
